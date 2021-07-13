@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Patient()
+comment1.params=age
+comment1.target=void\ set_age(int)
+comment2.params=
+comment2.target=int\ get_age()
+comment3.params=
+comment3.target=void\ input()
+comment4.params=
+comment4.target=void\ print()
+numComments=5
